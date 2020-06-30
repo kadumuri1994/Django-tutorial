@@ -1,2 +1,2 @@
 # Django-tutorial
-Basic application which includes django tutorial documentation
+This repository contains a project built by following the tutorial in django official documentation
