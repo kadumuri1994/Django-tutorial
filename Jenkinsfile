@@ -1,5 +1,4 @@
 node ('master') {
-
     def PWD = pwd();
     def BRANCH_NAME = "master"
 
